@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace CompanyEmployees.Migrations
 {
     /// <inheritdoc />
-    public partial class initialseed : Migration
+    public partial class CompanyEmployees : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
